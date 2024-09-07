@@ -8,7 +8,7 @@ $font_size = isset($_COOKIE['font_preference']) ? $_COOKIE['font_preference'] : 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Personalized Page</title>
+    <title>Hotel De Luna</title>
     <style>
         body {
             background-color: <?php echo htmlspecialchars($background_color); ?>;
