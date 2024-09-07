@@ -5,7 +5,7 @@
     <title>User Preferences</title>
 </head>
 <body>
-    <h1>Set Your Preferences</h1>
+    <h1>Set Your Preferences in Hotel de Luna</h1>
     <form action="set_preferences.php" method="post">
         <label for="color">Choose a background color:</label>
         <select name="color" id="color">
